@@ -38,10 +38,10 @@ The source data file provided by BOE contained a total of 13,316,724 records; 12
 **_Summary of Dataset_**  
  
 ##### Distribution of Voters by Region and Party
-![image](https://github.com/user-attachments/assets/e27cc387-1273-4c2c-837b-85ab0219caea)
+![image](https://github.com/user-attachments/assets/a5af30b6-56e0-4a09-9359-62a4b8902491)
 
 ##### Distribution of Voters by County
 ![image](https://github.com/user-attachments/assets/e758b70f-4d6b-4e3b-8198-ff0d2663e299)
 
-##### Distribution of Voters by CD and Party
+##### Distribution of Voters by Congressional District (CD) and Party
 ![image](https://github.com/user-attachments/assets/ca982dbf-6d5c-4676-866c-e2ff95aca744)
