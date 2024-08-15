@@ -1,0 +1,63 @@
+COUNTYCODE,COUNTYNAME,REGION
+1,Albany,Capital
+2,Allegany,Western
+3,Bronx,New York City
+4,Broome,Southern Tier
+5,Cattaraugus,Western
+6,Cayuga,Central
+7,Chautauqua,Western
+8,Chemung,Southern Tier
+9,Chenango,Southern Tier
+10,Clinton,North Country
+11,Columbia,Capital
+12,Cortland,Central
+13,Delaware,Southern Tier
+14,Dutchess,Hudson Valley
+15,Erie,Western
+16,Essex,North Country
+17,Franklin,North Country
+18,Fulton,Mohawk Valley
+19,Genesee,Finger Lakes
+20,Greene,Capital
+21,Hamilton,North Country
+22,Herkimer,Mohawk Valley
+23,Jefferson,North Country
+24,Kings,New York City
+25,Lewis,North Country
+26,Livingston,Finger Lakes
+27,Madison,Central
+28,Monroe,Finger Lakes
+29,Montgomery,Mohawk Valley
+30,Nassau,Long Island
+31,New York,New York City
+32,Niagara,Western
+33,Oneida,Mohawk Valley
+34,Onondaga,Central
+35,Ontario,Finger Lakes
+36,Orange,Hudson Valley
+37,Orleans,Finger Lakes
+38,Oswego,Central
+39,Otsego,Mohawk Valley
+40,Putnam,Hudson Valley
+41,Queens,New York City
+42,Rensselaer,Capital
+43,Richmond,New York City
+44,Rockland,Hudson Valley
+45,Saratoga,Capital
+46,Schenectady,Capital
+47,Schoharie,Mohawk Valley
+48,Schuyler,Southern Tier
+49,Seneca,Finger Lakes
+50,St.Lawrence,North Country
+51,Steuben,Southern Tier
+52,Suffolk,Long Island
+53,Sullivan,Hudson Valley
+54,Tioga,Southern Tier
+55,Tompkins,Southern Tier
+56,Ulster,Hudson Valley
+57,Warren,Capital
+58,Washington,Capital
+59,Wayne,Finger Lakes
+60,Westchester,Hudson Valley
+61,Wyoming,Finger Lakes
+62,Yates,Finger Lakes
