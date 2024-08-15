@@ -45,3 +45,9 @@ The source data file provided by BOE contained a total of 13,316,724 records; 12
 
 ##### Distribution of Voters by Congressional District (CD) and Party
 ![image](https://github.com/user-attachments/assets/ca982dbf-6d5c-4676-866c-e2ff95aca744)
+
+**_Output_**  
+Revised source data files...in csv format (name=NYS_Voters_Jul24.csv) and Rdata format (name=NYS_Voters_Jul24.RData)...capturing the modifications above were created.  
+
+**_Code_**  
+R commands used to prepare the source data file and produce the summary of observations described above have been saved as Prep_NYSVoters_Jul24.R
